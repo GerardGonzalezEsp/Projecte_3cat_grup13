@@ -1,4 +1,4 @@
-#Projecte 3cat: Grup 13
+# Projecte 3cat: Grup 13
 
 La demo cobreix les següents funcionalitats:
 
