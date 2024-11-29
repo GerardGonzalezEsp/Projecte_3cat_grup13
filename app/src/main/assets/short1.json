@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "titol": "Els fideus amb forma de patata",
+  "descripcio": "Joc de Cartes, Episodi 7",
+  "likes": 254,
+  "visualitzacions": 5421,
+  "urlSerie": "joc-de-cartes",
+  "comentaris": [
+    {
+      "usuari": "Clara",
+      "contingut": "Ja no podré mirar mai més els fideos de la mateixa manera 😂"
+    },
+    {
+      "usuari": "Marc",
+      "contingut": "Això és una patata? O uns fideos? Estic perdut i rient alhora! 😂"
+    },
+    {
+      "usuari": "Laura",
+      "contingut": "Qui necessita Netflix quan tens això? Bravo, 3cat! 👏"
+    },
+    {
+      "usuari": "Joana",
+      "contingut": "Ho he vist cinc vegades i cada vegada és més divertit! 😂😂"
+    },
+    {
+      "usuari": "Arnau",
+      "contingut": "La patata ha guanyat, però els fideos han lluitat fins al final. 🍝🥔"
+    },
+    {
+      "usuari": "Sofia",
+      "contingut": "Com és possible confondre això? Encara estic rient! 🤣"
+    },
+    {
+      "usuari": "Carles",
+      "contingut": "Aquest vídeo és història de Catalunya ja. 😅"
+    },
+    {
+      "usuari": "Gemma",
+      "contingut": "M’he de descarregar aquesta app només per moments com aquest! 😂"
+    }
+  ],
+  "liked": false
+}
+

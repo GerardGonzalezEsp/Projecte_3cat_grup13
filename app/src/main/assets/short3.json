@@ -1,0 +1,51 @@
+{
+  "id": 3,
+  "titol": "Messi tornarà a Barcelona?",
+  "descripcio": "L'opinió de Messi sobre la seva tornada a Barcelona.",
+  "likes": 189,
+  "visualitzacions": 4030,
+  "urlSerie": "som-un-clam",
+  "comentaris": [
+    {
+      "usuari": "Pau",
+      "contingut": "Tant de bo torni! Seria un somni fet realitat. 💙❤️"
+    },
+    {
+      "usuari": "Núria",
+      "contingut": "Messi és un símbol per a nosaltres. Barcelona sempre serà casa seva! 🏠⚽"
+    },
+    {
+      "usuari": "Joan",
+      "contingut": "Espero que torni ni que sigui per acomiadar-se com cal! 👏"
+    },
+    {
+      "usuari": "Maria",
+      "contingut": "Amb Messi al camp, el Barça tornaria a brillar com abans. ✨"
+    },
+    {
+      "usuari": "Arnau",
+      "contingut": "És difícil imaginar-ho, però quina emoció si passa! 🔥"
+    },
+    {
+      "usuari": "Laura",
+      "contingut": "Barcelona sempre serà casa seva, torni o no! ❤️"
+    },
+    {
+      "usuari": "Carles",
+      "contingut": "Jo crec que acabarà tornant d'alguna manera. És el nostre GOAT! 🐐"
+    },
+    {
+      "usuari": "Clara",
+      "contingut": "El Barça sense Messi no és el mateix... però també hem de mirar endavant! 🙌"
+    },
+    {
+      "usuari": "Marc",
+      "contingut": "Messi al Barça un altre cop? Signa’m ja! 🤩"
+    },
+    {
+      "usuari": "Gemma",
+      "contingut": "Sigui com sigui, Messi sempre serà el millor de la història. 🏆"
+    }
+  ],
+  "liked": false
+}
